@@ -18,3 +18,14 @@ def comp_months(df):
     df['CompetitionOpen'] = 12 * (df.Year - df.CompetitionOpenSinceYear) + (df.Month - df.CompetitionOpenSinceMonth)
     df['CompetitionOpen'] = df['CompetitionOpen'].map(lambda x: 0 if x < 0 else x).fillna(0)
 
+def is_seasonal_holiday(StateHoliday,SchoolHoliday):
+    if StateHoliday == 'a':
+        return 'State Holiday'
+    elif StateHoliday == 'b':
+        return 'Easter Holiday'
+    elif StateHoliday == 'c':
+        return 'Christmas'
+    elif SchoolHoliday == 1:
+        return 'School Holiday'
+    return 'Normal'
+
