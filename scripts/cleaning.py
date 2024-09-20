@@ -5,9 +5,14 @@ from scripts.logger_config import *
 logger = setup_logger()
 
 
-def remove_outliers(df):
-    logger.info("Removing outliers")
+def remove_outliers(df,exclude_columns=None):
+    if exclude_columns is None:
+        exclude_columns = []
+    logger.info("Removing outliers for numerical columns")
     for column in df.select_dtypes(include=['float64', 'int64']).columns:
+        if column in exclude_columns:
+            logger.info(f"Skipping outlier removal for column: {column}")
+            continue
         Q1 = df[column].quantile(0.25)
         Q3 = df[column].quantile(0.75)
         IQR = Q3 - Q1
@@ -24,6 +29,7 @@ def remove_outliers(df):
 
 
 def remove_missing_values(df, threshold=0.5):
+    logger.info(f"Removing missing values with threshold {threshold}")
     # Calculate the threshold number of non-NA values required
     threshold_count = int(threshold * df.shape[1])
     
@@ -33,6 +39,7 @@ def remove_missing_values(df, threshold=0.5):
 
 
 def remove_categorical_outliers(df, threshold=0.01):
+    logger.info(f"Removing categorical outliers with threshold {threshold}")
     for column in df.select_dtypes(include=['object']).columns:
         counts = df[column].value_counts(normalize=True)
         
@@ -44,6 +51,7 @@ def remove_categorical_outliers(df, threshold=0.01):
 
 
 def remove_missing_values_categorical(df, fill_value='Unknown'):
+    logger.info(f"Removing missing values in categorical columns with fill value {fill_value}")
     for column in df.select_dtypes(include=['object']).columns:
         df[column].fillna(fill_value, inplace=True)
         

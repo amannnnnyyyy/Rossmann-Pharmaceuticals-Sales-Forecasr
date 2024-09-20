@@ -1,0 +1,366 @@
+2024-09-20 11:26:00,558 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:26:00,558 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:26:00,586 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:26:00,586 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:26:03,792 - INFO - Checking for outliers...
+2024-09-20 11:26:03,792 - INFO - Checking for outliers...
+2024-09-20 11:26:03,792 - INFO - Checking for outliers...
+2024-09-20 11:27:02,959 - INFO - Checking for outliers...
+2024-09-20 11:27:02,959 - INFO - Checking for outliers...
+2024-09-20 11:27:02,959 - INFO - Checking for outliers...
+2024-09-20 11:27:06,535 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:06,535 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:06,535 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:06,535 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:07,251 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:07,251 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:07,251 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:07,251 - INFO - Removing outliers for numerical columns
+2024-09-20 11:27:07,321 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:07,321 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:07,321 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:07,321 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:08,171 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:08,171 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:08,171 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:08,171 - INFO - Removing categorical outliers with threshold 0.01
+2024-09-20 11:27:14,373 - INFO - Checking for outliers...
+2024-09-20 11:27:14,373 - INFO - Checking for outliers...
+2024-09-20 11:27:14,373 - INFO - Checking for outliers...
+2024-09-20 11:27:14,373 - INFO - Checking for outliers...
+2024-09-20 11:27:39,297 - INFO - Checking for outliers...
+2024-09-20 11:27:39,297 - INFO - Checking for outliers...
+2024-09-20 11:27:39,297 - INFO - Checking for outliers...
+2024-09-20 11:27:39,297 - INFO - Checking for outliers...
+2024-09-20 11:33:13,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:33:13,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:33:13,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:33:13,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:33:15,294 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:33:15,294 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:33:15,294 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:33:15,294 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:34:09,419 - INFO - Calculate competition open months
+2024-09-20 11:34:09,419 - INFO - Calculate competition open months
+2024-09-20 11:34:09,419 - INFO - Calculate competition open months
+2024-09-20 11:34:09,419 - INFO - Calculate competition open months
+2024-09-20 11:34:09,875 - INFO - Calculate competition open months
+2024-09-20 11:34:09,875 - INFO - Calculate competition open months
+2024-09-20 11:34:09,875 - INFO - Calculate competition open months
+2024-09-20 11:34:09,875 - INFO - Calculate competition open months
+2024-09-20 11:57:35,614 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:57:35,614 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:57:35,676 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:57:35,676 - INFO - Split date into Date, Year, and Month
+2024-09-20 11:57:37,813 - INFO - Checking for outliers...
+2024-09-20 11:57:37,813 - INFO - Checking for outliers...
+2024-09-20 11:57:37,813 - INFO - Checking for outliers...
+2024-09-20 11:58:06,825 - INFO - Checking for outliers...
+2024-09-20 11:58:06,825 - INFO - Checking for outliers...
+2024-09-20 11:58:06,825 - INFO - Checking for outliers...
+2024-09-20 11:58:19,289 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:19,289 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:19,289 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:19,289 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:20,010 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:20,010 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:20,010 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:20,010 - INFO - Removing outliers for numerical columns
+2024-09-20 11:58:20,946 - INFO - Checking for outliers...
+2024-09-20 11:58:20,946 - INFO - Checking for outliers...
+2024-09-20 11:58:20,946 - INFO - Checking for outliers...
+2024-09-20 11:58:20,946 - INFO - Checking for outliers...
+2024-09-20 11:58:45,698 - INFO - Checking for outliers...
+2024-09-20 11:58:45,698 - INFO - Checking for outliers...
+2024-09-20 11:58:45,698 - INFO - Checking for outliers...
+2024-09-20 11:58:45,698 - INFO - Checking for outliers...
+2024-09-20 11:58:48,945 - INFO - Checking for missing values...
+2024-09-20 11:58:48,945 - INFO - Checking for missing values...
+2024-09-20 11:58:48,945 - INFO - Checking for missing values...
+2024-09-20 11:58:48,945 - INFO - Checking for missing values...
+2024-09-20 11:58:49,840 - INFO - Removing missing values with threshold 0.5
+2024-09-20 11:58:49,840 - INFO - Removing missing values with threshold 0.5
+2024-09-20 11:58:49,840 - INFO - Removing missing values with threshold 0.5
+2024-09-20 11:58:49,840 - INFO - Removing missing values with threshold 0.5
+2024-09-20 11:58:50,708 - INFO - Checking for missing values...
+2024-09-20 11:58:50,708 - INFO - Checking for missing values...
+2024-09-20 11:58:50,708 - INFO - Checking for missing values...
+2024-09-20 11:58:50,708 - INFO - Checking for missing values...
+2024-09-20 11:58:50,731 - INFO - Checking for missing values...
+2024-09-20 11:58:50,731 - INFO - Checking for missing values...
+2024-09-20 11:58:50,731 - INFO - Checking for missing values...
+2024-09-20 11:58:50,731 - INFO - Checking for missing values...
+2024-09-20 11:58:55,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:58:55,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:58:55,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:58:55,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:58:56,894 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:58:56,894 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:58:56,894 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:58:56,894 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:59:39,712 - INFO - Calculate competition open months
+2024-09-20 11:59:39,712 - INFO - Calculate competition open months
+2024-09-20 11:59:39,712 - INFO - Calculate competition open months
+2024-09-20 11:59:39,712 - INFO - Calculate competition open months
+2024-09-20 11:59:40,237 - INFO - Calculate competition open months
+2024-09-20 11:59:40,237 - INFO - Calculate competition open months
+2024-09-20 11:59:40,237 - INFO - Calculate competition open months
+2024-09-20 11:59:40,237 - INFO - Calculate competition open months
+2024-09-20 14:14:27,731 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:27,731 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:27,731 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:27,731 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:27,752 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:27,752 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:27,752 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:27,752 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,932 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,932 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,932 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,932 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,948 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,948 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,948 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:36,948 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,185 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,185 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,185 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,185 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,201 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,201 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,201 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:14:42,201 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,274 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,274 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,274 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,274 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,293 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,293 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,293 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:15:29,293 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,397 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,397 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,397 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,397 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,414 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,414 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,414 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:20:31,414 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:32:55,575 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:32:55,575 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:32:55,605 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:32:55,605 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:32:57,859 - INFO - Checking for outliers...
+2024-09-20 14:32:57,859 - INFO - Checking for outliers...
+2024-09-20 14:32:57,859 - INFO - Checking for outliers...
+2024-09-20 14:33:26,227 - INFO - Checking for outliers...
+2024-09-20 14:33:26,227 - INFO - Checking for outliers...
+2024-09-20 14:33:26,227 - INFO - Checking for outliers...
+2024-09-20 14:33:28,324 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:28,324 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:28,324 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:28,324 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:29,055 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:29,055 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:29,055 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:29,055 - INFO - Removing outliers for numerical columns
+2024-09-20 14:33:29,136 - INFO - Checking for outliers...
+2024-09-20 14:33:29,136 - INFO - Checking for outliers...
+2024-09-20 14:33:29,136 - INFO - Checking for outliers...
+2024-09-20 14:33:29,136 - INFO - Checking for outliers...
+2024-09-20 14:33:54,398 - INFO - Checking for outliers...
+2024-09-20 14:33:54,398 - INFO - Checking for outliers...
+2024-09-20 14:33:54,398 - INFO - Checking for outliers...
+2024-09-20 14:33:54,398 - INFO - Checking for outliers...
+2024-09-20 14:33:58,035 - INFO - Checking for missing values...
+2024-09-20 14:33:58,035 - INFO - Checking for missing values...
+2024-09-20 14:33:58,035 - INFO - Checking for missing values...
+2024-09-20 14:33:58,035 - INFO - Checking for missing values...
+2024-09-20 14:34:03,859 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:34:03,859 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:34:03,859 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:34:03,859 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:34:05,197 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:34:05,197 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:34:05,197 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:34:05,197 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:35:23,281 - INFO - Calculate competition open months
+2024-09-20 14:35:23,281 - INFO - Calculate competition open months
+2024-09-20 14:35:23,281 - INFO - Calculate competition open months
+2024-09-20 14:35:23,281 - INFO - Calculate competition open months
+2024-09-20 14:35:23,726 - INFO - Calculate competition open months
+2024-09-20 14:35:23,726 - INFO - Calculate competition open months
+2024-09-20 14:35:23,726 - INFO - Calculate competition open months
+2024-09-20 14:35:23,726 - INFO - Calculate competition open months
+2024-09-20 14:36:07,809 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:07,809 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:07,809 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:07,809 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:07,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:07,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:07,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:07,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,101 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,101 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,101 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,101 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,117 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,117 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,117 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:11,117 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,145 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,145 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,145 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,145 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,161 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,161 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,161 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:13,161 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,921 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,921 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,921 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,921 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,941 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,941 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,941 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:36:28,941 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:38:06,354 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:38:06,354 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:38:06,393 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:38:06,393 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:38:15,431 - INFO - Checking for outliers...
+2024-09-20 14:38:15,431 - INFO - Checking for outliers...
+2024-09-20 14:38:15,431 - INFO - Checking for outliers...
+2024-09-20 14:39:18,041 - INFO - Checking for outliers...
+2024-09-20 14:39:18,041 - INFO - Checking for outliers...
+2024-09-20 14:39:18,041 - INFO - Checking for outliers...
+2024-09-20 14:39:30,707 - INFO - Removing outliers for numerical columns
+2024-09-20 14:39:30,707 - INFO - Removing outliers for numerical columns
+2024-09-20 14:39:30,707 - INFO - Removing outliers for numerical columns
+2024-09-20 14:39:30,707 - INFO - Removing outliers for numerical columns
+2024-09-20 14:39:31,459 - INFO - Removing outliers for numerical columns
+2024-09-20 14:39:31,459 - INFO - Removing outliers for numerical columns
+2024-09-20 14:39:31,459 - INFO - Removing outliers for numerical columns
+2024-09-20 14:39:31,459 - INFO - Removing outliers for numerical columns
+2024-09-20 14:49:27,754 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:49:27,754 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:49:27,785 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:49:27,785 - INFO - Split date into Date, Year, and Month
+2024-09-20 14:49:50,886 - INFO - Checking for outliers...
+2024-09-20 14:49:50,886 - INFO - Checking for outliers...
+2024-09-20 14:49:50,886 - INFO - Checking for outliers...
+2024-09-20 14:50:23,852 - INFO - Checking for outliers...
+2024-09-20 14:50:23,852 - INFO - Checking for outliers...
+2024-09-20 14:50:23,852 - INFO - Checking for outliers...
+2024-09-20 14:50:33,944 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:33,944 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:33,944 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:33,944 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:34,247 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,247 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,247 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,247 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,251 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,251 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,251 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,251 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,257 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,257 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,257 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,257 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,459 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:34,459 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:34,459 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:34,459 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:34,571 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:34,571 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:34,571 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:34,571 - INFO - Removing outliers for numerical columns
+2024-09-20 14:50:34,597 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,597 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,597 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,597 - INFO - Skipping outlier removal for column: Open
+2024-09-20 14:50:34,601 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,601 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,601 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,601 - INFO - Skipping outlier removal for column: Promo
+2024-09-20 14:50:34,607 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,607 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,607 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,607 - INFO - Skipping outlier removal for column: SchoolHoliday
+2024-09-20 14:50:34,632 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:34,632 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:34,632 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:34,632 - INFO - Skipping outlier removal for column: Promo2
+2024-09-20 14:50:35,446 - INFO - Checking for outliers...
+2024-09-20 14:50:35,446 - INFO - Checking for outliers...
+2024-09-20 14:50:35,446 - INFO - Checking for outliers...
+2024-09-20 14:50:35,446 - INFO - Checking for outliers...
+2024-09-20 14:50:59,789 - INFO - Checking for outliers...
+2024-09-20 14:50:59,789 - INFO - Checking for outliers...
+2024-09-20 14:50:59,789 - INFO - Checking for outliers...
+2024-09-20 14:50:59,789 - INFO - Checking for outliers...
+2024-09-20 14:51:04,841 - INFO - Checking for missing values...
+2024-09-20 14:51:04,841 - INFO - Checking for missing values...
+2024-09-20 14:51:04,841 - INFO - Checking for missing values...
+2024-09-20 14:51:04,841 - INFO - Checking for missing values...
+2024-09-20 14:51:09,764 - INFO - Removing missing values with threshold 0.5
+2024-09-20 14:51:09,764 - INFO - Removing missing values with threshold 0.5
+2024-09-20 14:51:09,764 - INFO - Removing missing values with threshold 0.5
+2024-09-20 14:51:09,764 - INFO - Removing missing values with threshold 0.5
+2024-09-20 14:51:10,553 - INFO - Checking for missing values...
+2024-09-20 14:51:10,553 - INFO - Checking for missing values...
+2024-09-20 14:51:10,553 - INFO - Checking for missing values...
+2024-09-20 14:51:10,553 - INFO - Checking for missing values...
+2024-09-20 14:51:10,578 - INFO - Checking for missing values...
+2024-09-20 14:51:10,578 - INFO - Checking for missing values...
+2024-09-20 14:51:10,578 - INFO - Checking for missing values...
+2024-09-20 14:51:10,578 - INFO - Checking for missing values...
+2024-09-20 14:51:27,170 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:51:27,170 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:51:27,170 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:51:27,170 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:51:28,537 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:51:28,537 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:51:28,537 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:51:28,537 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:52:10,485 - INFO - Calculate competition open months
+2024-09-20 14:52:10,485 - INFO - Calculate competition open months
+2024-09-20 14:52:10,485 - INFO - Calculate competition open months
+2024-09-20 14:52:10,485 - INFO - Calculate competition open months
+2024-09-20 14:52:10,930 - INFO - Calculate competition open months
+2024-09-20 14:52:10,930 - INFO - Calculate competition open months
+2024-09-20 14:52:10,930 - INFO - Calculate competition open months
+2024-09-20 14:52:10,930 - INFO - Calculate competition open months
+2024-09-20 14:53:06,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:06,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:06,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:06,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:06,070 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:06,070 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:06,070 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:06,070 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:08,984 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:08,984 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:08,984 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:08,984 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:09,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:09,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:09,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:09,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,861 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,861 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,861 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,861 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,876 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,876 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,876 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:11,876 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,660 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,660 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,660 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,660 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,678 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,678 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,678 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 14:53:19,678 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
