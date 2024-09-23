@@ -70,7 +70,7 @@ def preprocess_data(df):
     # Combine holiday columns to minimize forward fills
     df['days_to_holiday'] = np.where(df['StateHoliday'] != 'none', 0, np.nan)
     df['days_after_holiday'] = np.where(df['SchoolHoliday'] == 1, 0, np.nan)
-    df[['days_to_holiday', 'days_after_holiday']] = df[['days_to_holiday', 'days_after_holiday']].ffill()
+    df[['days_to_holiday', 'days_after_holiday']] = df[['days_to_holiday', 'days_after_holiday']].fillna(0)
 
     # Beginning, mid, and end of the month
     df['beginning_of_month'] = (df['Date'].dt.day <= 10).astype(int)
@@ -85,7 +85,7 @@ def preprocess_data(df):
     df.drop(columns=['Date'], inplace=True)
 
     # Handle missing values (customize this if needed)
-    df.fillna(method='ffill', inplace=True)
+    df.fillna(0, inplace=True)
     
     # Label encode Store to avoid memory issues with get_dummies
     if 'StoreType' in df.columns:
@@ -123,6 +123,7 @@ def preprocess_data(df):
         df['SeasonalHoliday'] = le.fit_transform(df['SeasonalHoliday'])  # Label encode SeasonalHoliday
 
     if 'PromoInterval' in df.columns:
+        df['PromoInterval'] = df['PromoInterval'].astype(str)
         df['PromoInterval'] = le.fit_transform(df['PromoInterval'])  # Label encode PromoInterval
 
     # Scale only numeric columns
