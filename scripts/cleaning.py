@@ -98,7 +98,7 @@ def preprocess_data(df):
         'a': 1,
         'b': 2,
         'c': 3,
-        'none': 0
+        '0': 0
     }).fillna(0).astype(int)
 
     df['SchoolHoliday'] = df['SchoolHoliday'].astype(int)
